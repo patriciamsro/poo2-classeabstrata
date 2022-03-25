@@ -1,0 +1,10 @@
+package atividadeClasseAbstrata;
+
+public abstract class Figura2D {
+	
+	public static abstract String pegaTexto();
+	
+	
+	//geometria plana
+
+}

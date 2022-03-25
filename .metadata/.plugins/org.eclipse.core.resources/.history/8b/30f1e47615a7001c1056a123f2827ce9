@@ -1,0 +1,10 @@
+package atividadeClasseAbstrata;
+
+public class GeometriaPlana {
+
+	//Circulo fig = new Circulo();
+	
+	Figura2D fig = new Circulo();
+	
+	
+}

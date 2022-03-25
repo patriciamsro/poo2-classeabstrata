@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;atividadeClasseAbstrata.figura2D&apos; to &apos;Figura2D&apos;&#x0D;&#x0A;- Original project: &apos;atividadeClasseAbstrata&apos;&#x0D;&#x0A;- Original element: &apos;atividadeClasseAbstrata.figura2D&apos;&#x0D;&#x0A;- Renamed element: &apos;atividadeClasseAbstrata.Figura2D&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;figura2D&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;atividadeClasseAbstrata{figura2D.java[figura2D" matchStrategy="1" name="Figura2D" qualified="false" references="true" similarDeclarations="false" stamp="1647644919618" textual="false" version="1.0"/>
+</session>

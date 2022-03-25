@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\patri\Documents\Faculdade\3º Período\POO 2\Aula 18-03\.metadata\.plugins\org.eclipse.jdt.core
+1047739719.index
+4065532163.index
+1865797976.index

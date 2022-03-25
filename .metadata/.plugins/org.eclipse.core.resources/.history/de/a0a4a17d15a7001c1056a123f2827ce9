@@ -1,0 +1,26 @@
+package atividadeClasseAbstrata;
+
+public class GeometriaPlana {
+
+	//Circulo fig = new Circulo();
+	/*Ao invés de usar a forma acima utilizaremos o objeto da classe figura2D porque ora o objeto será um círculo,
+	ora será um triângulo e ora um quadrado. Objeto est[a ganhando formas diferentes com ajuda da superclasse*/
+	//dentro de geometriaPlana há um atributo que é um objeto dessa classe figura2D
+	
+	protected Figura2D fig = new Figura2D();
+	
+	public static void mudaParaCirculo() {
+	}
+	
+	public static void mudaParaTriangulo() {
+	}
+	
+	public static void mudaParaQuadrado() {
+		
+	}
+	
+	public static void exibe() {
+		System.out.println();
+	}
+	
+}
